@@ -4,6 +4,8 @@ Schedule of Viterbi classes (https://viterbischool.usc.edu/) at the University o
 Bar Graphs are generated to visually represent the schedule of classes for 5 days a week. 
 Sample CSV file provided under vdi_classes.csv
 
+Developed for internal use by the Viterbi School of Engineering. 
+
 ### Prerequisites
 A modern web-browser like Safari, Chrome, Microsoft-Edge, Mozilla Firefox, etc.
 
